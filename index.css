@@ -1,0 +1,11 @@
+.myCard {
+    padding: 20px;
+    border-radius: 10px;
+}
+.myCard500 {
+	width: 500px;
+    height: 500px;
+}
+.bg-black{
+    background: #000;
+}
